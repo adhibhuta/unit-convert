@@ -2,7 +2,7 @@
 name = "unit_convert"
 version = "0.1.0"
 authors = ["lladhibhutall <debjyoti.biswas@outlook.com>"]
-edition = "2020"
+edition = "2018"
 description = "Easy library for unit conversions"
 license = "MIT OR Apache-2.0"
 homepage = "https://github.com/lladhibhutall/unit-convert"
